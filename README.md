@@ -1,5 +1,5 @@
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
+[//]:  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gian-vie/Gian-vie/output/github-contribution-grid-snake-dark.svg"> <img alt="snake animation" src="https://raw.githubusercontent.com/Gian-vie/Gian-vie/output/github-contribution-grid-snake.svg"> </picture>
 
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gian-vie&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gian-vie&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
