@@ -1,4 +1,6 @@
-[//]:  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ 
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gian-vie/Gian-vie/output/github-contribution-grid-snake-dark.svg"> <img alt="snake animation" src="https://raw.githubusercontent.com/Gian-vie/Gian-vie/output/github-contribution-grid-snake.svg"> </picture>
 
   
